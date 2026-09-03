@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Model/training temporary files
+*.h5
+*.hdf5
+*.ckpt
+*.tmp
+
+# Python cache
+.pytest_cache/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Large/generated output files
+outputs/
+plots/
+
+# Demo recordings
+# Keep the demo video only if you intentionally want it in GitHub.
+demo/

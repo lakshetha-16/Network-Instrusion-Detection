@@ -1,0 +1,5 @@
+{
+    "threshold_percentile": 95,
+    "threshold": 0.014249271713197231,
+    "description": "Threshold derived from the 95th percentile of normal validation reconstruction errors."
+}
